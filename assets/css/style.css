@@ -1,0 +1,61 @@
+.container, h1, h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 700;
+    color:#707070;
+}
+
+.card-title {
+    font-size: 17px;
+    font-weight: 700;
+}
+.card-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.list-group-item, .card-link {
+    font-size: 11px;
+    font-weight: 400;
+}
+
+.fuente {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.imagen-final {
+    max-width: 53.32px;
+    max-height: 100.45px;
+}
+
+@media (max-width: 320px) {
+        .h1-sm {
+        font-size: 35px;
+        }
+}
+@media (max-width: 321px) {
+    .pago {
+        display: none;
+    }
+}
+@media (max-width: 320px) {
+    .imagen-final {
+        width: 35.77px;
+        height: 67.39px;
+    }
+}
+/* @media (max-width) {
+    .card {
+        margin-bottom: px;
+    }
+} */
+
